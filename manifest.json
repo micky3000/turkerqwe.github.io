@@ -1,0 +1,18 @@
+{
+    "name": "Türker",
+    "lang": "tr",
+     "theme_color": "#111827",
+     "background_color": "#111827",
+     "display": "fullscreen",
+     "orientation": "portrait",
+     "scope": "/",
+     "start_url": "/",
+    "icons": [
+     {
+      "src": "https://cdn.discordapp.com/avatars/852798440680456212/a_6ccaa42c4394ca8b3ce42b7a276470d8.gif?size=1024",
+      "sizes": "512x512",
+      "type": "image\/gif",
+      "density": "5.0"
+     }
+    ]
+   }
